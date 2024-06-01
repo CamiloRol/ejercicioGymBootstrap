@@ -1,0 +1,54 @@
+body {
+    background: url("recursos/background.jpg");
+}
+
+.two {
+    display: flex;
+    
+    justify-content: space-around;
+    margin: 10 auto;
+}
+
+.showcase img {
+    width: 100%;
+}
+
+.three {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+}
+
+.abt1 {
+    flex: 50%;
+}
+
+.abt1 img {
+    width: 350px;
+    height: 350px;
+}
+
+.abt2{
+    margin: 35px auto;
+    flex: 50%;
+}
+
+.four {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.titlecl {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.five {
+    background-color: white;
+}
+
+.six {
+    background-color: #FF6D2D;
+}
